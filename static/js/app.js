@@ -47,7 +47,7 @@ function updateFilters() {
       delete filters[filterId];
     }
     console.log(filters);
-z
+    
     // 6. Call function to apply all filters and rebuild the table
     filterTable();
   
