@@ -22,6 +22,7 @@ The sighting data includes
   * The data has not been updated. We would have studied and gathered more researches of UFOs, if we had most recent datas.
   * The data is geopolitically limited within USA. There are many UFOs sighting spots in the world.
   * placeholder does not allow upper case.
+
 ex1) ![image](https://user-images.githubusercontent.com/105985796/185279182-d070af24-fcfc-40bf-817b-efa5eede9083.png)
 ex2)![image](https://user-images.githubusercontent.com/105985796/185279247-5b8ed334-86bf-46e0-817f-6eb8cc71865d.png)
 
